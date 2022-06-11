@@ -2,7 +2,6 @@
 
 ## I'm a Student, Developer, and Designer!!
 
-- 🔭 I am looking for intern jobs + making various web projects!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Become a Front-End developer and learn ReactJs more.
 - ⚡ Fun fact: I love Travelling, Photography and Gaming Online.
