@@ -19,7 +19,7 @@
 
 ---
 
-[website]: https://Abdullah1203.github.io
+[website]: https://Abdullah1203.github.io/web-portfolio
 [twitter]: https://twitter.com/abd_nimit
 [youtube]: https://bit.ly/33ZXxA8
 [instagram]: https://www.instagram.com/abd_nimit
