@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Designer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Become a Front-End developer and learn ReactJs more.
+- 🥅 2023 Goals: Become a Front-End developer and learn ReactJs more.
 - ⚡ Fun fact: I love Travelling, Photography and Gaming Online.
 
 ### Connect with me:
