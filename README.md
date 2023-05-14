@@ -1,6 +1,6 @@
 ### Hi there, I'm ABDULLAH IBNE ALI - aka [ABD NIMIT][website] 👋 
 
-## I'm a Student, Developer, and Designer!!
+## I'm a Student, Freelancer, Web Designer and developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Become a Front-End developer and learn ReactJs more.
