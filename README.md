@@ -34,4 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah1203&show_icons=true&locale=en&layout=compact" alt="abdullah1203" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah1203&show_icons=true&locale=en" alt="abdullah1203" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah1203" alt="abdullah1203" /></a> </p>
+
