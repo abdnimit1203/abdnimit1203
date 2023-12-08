@@ -4,6 +4,9 @@
 [instagram]: https://www.instagram.com/abd_nimit
 [linkedin]: https://www.linkedin.com/in/abdullah-ibne-ali
 
+![cover](https://github.com/abdnimit1203/abdnimit1203/assets/61884342/c2fe5aac-74e4-415c-8676-11ab08a85baa)
+
+
 <h2 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
  <h3 align="center">I'm Abdullah Ibne Ali , AKA abd_nimit</h3>
 
