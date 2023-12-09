@@ -10,7 +10,7 @@
 <h2 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
  <h3 align="center">I'm Abdullah Ibne Ali , AKA abd_nimit</h3>
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh. From last 6 monts i am learning javascript , reactjs ,node  to make user friendly & appealing websites. I use tailwind as Css framework and jsx for react component building.<br><br> As a developer from MERN stack i have decent knowledge of building a backend server. I use Node,Express and MongoDb to manage database at the backend.<br><br> Drop me a Figma or any UI i am confident that i will make it alive!✌🏻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah1203&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah1203" /> </p>
 
@@ -34,9 +34,67 @@
 <br>
 <br> 
 
-| ![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=abdnimit1203&show_icons=true&theme=tokyonight) | ![Abdullah's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdnimit1203&theme=tokyonight)                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abdnimit1203&show_icons=true&locale=en&layout=compact&theme=tokyonight)                  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=abdnimit1203&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+<h3 align="left">My Latest projects 💥</h3>
+<hr>
+
+*Login to the sites to see the features*
+
+<h4 align="left">🏡 ABuild Homes Estate </h4>
+
+- **Description** : A real estate website where people can buy houses by offering price. There are 3 roles for user which are managed by admins in the dashboard. There is a User, Agent and Admin role for this website. Where user adds project to wishlist and make an offer from user dashboard. Agent manages those offer and accepts the best one and other offers gets rejected. Agent adds properties to be added to user viewpoint and update them. Admin manages the properties , total sales and user roles.
+*Stripe payment is available*
+
+- **Technologies used** : <br>
+    **Front end** : Reactjs , tailwind , DaisyUi, Framer <br>
+    **Backend** : Node, Express<br>
+    **Database** : MongoDB<br>
+    **Authentication** : Firebase<br>
+
+[Front End Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-Client) | [Backend Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-server) | [Live Demo](https://abuild-homesabd.web.app/)
+<h4 align="left">📝 ColabTask </h4>
+
+- **Description** : An Online based student group stdy platform. Where students can share heir assignments and submit them at the same time! All subitted assignments can be marked else it gets pending status. A student can see all their submitted assignments and other details. Their is chat post feature where students can discuss matters with others.
+
+- **Technologies used** : <br>
+    **Front end** : Reactjs , tailwind , DaisyUi, AOS animation <br>
+    **Backend** : Node, Express<br>
+    **Database** : MongoDB<br>
+    **Authentication** : Firebase<br>
+
+[Front End Repo](https://github.com/abdnimit1203/Online-group-study) | [Backend Repo](https://github.com/abdnimit1203/Online-group-study-server-) | [Live Demo](https://online-group-study-fdf3b.web.app/)
+
+<h4 align="left">🏎 Wheels World </h4>
+
+- **Description** : A Car Dealership website where people can buy cars. Just like an ecommerce site choose from brands , add to cart , go to cart then checkout with your price. There is a dark theme available for this website and its totally mobile friendly  
+
+- **Technologies used** : <br>
+    **Front end** : Reactjs , tailwind , DaisyUi, AOS <br>
+    **Backend** : Node, Express<br>
+    **Database** : MongoDB<br>
+    **Authentication** : Firebase<br>
+
+[Front End Repo](https://github.com/abdnimit1203/Wheels-World) | [Backend Repo](https://github.com/abdnimit1203/Wheels-World-Server) | [Live Demo](https://brand-shop-automotive-b8a10.web.app/)
+
+
+
+
+ 
+
+
+<br>
+<br> 
+
+
+
+| My Github Stats      |  |
+| ----------- | ----------- |
+| ![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=abdnimit1203&show_icons=true&theme=tokyonight)      | ![Abdullah's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdnimit1203&theme=tokyonight)       |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abdnimit1203&show_icons=true&locale=en&layout=compact&theme=tokyonight)   | ![Github Stars](https://github-readme-stats.vercel.app/api?username=abdnimit1203&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)  |
+
+
+                                                                                     
+  
+
 
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdnimit1203&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abdullah1203" /></p>
