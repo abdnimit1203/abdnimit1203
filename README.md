@@ -42,7 +42,7 @@
 <h4 align="left">🏡 ABuild Homes Estate </h4>
 
 - **Description**: A real estate website where people can buy houses by offering prices. There are 3 roles for users which are managed by admins in the dashboard. There is a User, Agent, and Admin role for this website. Where the user adds the property to the wishlist and makes an offer from the user dashboard. Agent manages those offers and accepts the best one and other offers get rejected. Agent adds properties to be added to the user viewpoint and updates them. Admin manages the properties, total sales, and user roles.
-*Stripe payment is system test version is applied for transaction*
+*Stripe payment is a system test version applied for transactions*
 
 - **Technologies used** : <br>
     **Front end** : Reactjs , tailwind , DaisyUi, Framer <br>
@@ -82,11 +82,12 @@
 
 
 <br>
-<br> 
+<be> 
 
 
-
-| My Github Stats      |  |
+<h2 align="center">My Github Stats 📈 </h2>
+                                    
+|  |  |
 | ----------- | ----------- |
 | ![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=abdnimit1203&show_icons=true&theme=tokyonight)      | ![Abdullah's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdnimit1203&theme=tokyonight)       |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abdnimit1203&show_icons=true&locale=en&layout=compact&theme=tokyonight)   | ![Github Stars](https://github-readme-stats.vercel.app/api?username=abdnimit1203&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)  |
