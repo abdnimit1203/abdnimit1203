@@ -10,13 +10,13 @@
 <h2 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
  <h3 align="center">I'm Abdullah Ibne Ali , AKA abd_nimit</h3>
 
-<h3 align="center">A passionate frontend developer from Bangladesh. From last 6 monts i am learning javascript , reactjs ,node  to make user friendly & appealing websites. I use tailwind as Css framework and jsx for react component building.<br><br> As a developer from MERN stack i have decent knowledge of building a backend server. I use Node,Express and MongoDb to manage database at the backend.<br><br> Drop me a Figma or any UI i am confident that i will make it alive!✌🏻</h3>
+<p align="center">A passionate Web Developer(MERN) from Bangladesh. For the last 6 months, I have been learning JavaScript, Reactjs, and Node.js  to make user-friendly & appealing websites. I use Tailwind as a CSS framework and jsx for react component building.<br><br> As a developer from MERN stack I have a decent knowledge of building a backend server. I use Node, Express, and MongoDB to manage database at the backend.<br><br> Drop me a Figma or any UI i am confident that I will make it alive!✌🏻</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah1203&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah1203" /> </p>
 
 - 🔭 I’m currently working on **MERN Stack Development**
 
-- 🌱 I’m currently learning **Everything ! 🤣**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Front end Projects**
 
@@ -41,8 +41,8 @@
 
 <h4 align="left">🏡 ABuild Homes Estate </h4>
 
-- **Description** : A real estate website where people can buy houses by offering price. There are 3 roles for user which are managed by admins in the dashboard. There is a User, Agent and Admin role for this website. Where user adds project to wishlist and make an offer from user dashboard. Agent manages those offer and accepts the best one and other offers gets rejected. Agent adds properties to be added to user viewpoint and update them. Admin manages the properties , total sales and user roles.
-*Stripe payment is available*
+- **Description**: A real estate website where people can buy houses by offering prices. There are 3 roles for users which are managed by admins in the dashboard. There is a User, Agent, and Admin role for this website. Where the user adds the property to the wishlist and makes an offer from the user dashboard. Agent manages those offers and accepts the best one and other offers get rejected. Agent adds properties to be added to the user viewpoint and updates them. Admin manages the properties, total sales, and user roles.
+*Stripe payment is system test version is applied for transaction*
 
 - **Technologies used** : <br>
     **Front end** : Reactjs , tailwind , DaisyUi, Framer <br>
@@ -53,10 +53,10 @@
 [Front End Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-Client) | [Backend Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-server) | [Live Demo](https://abuild-homesabd.web.app/)
 <h4 align="left">📝 ColabTask </h4>
 
-- **Description** : An Online based student group stdy platform. Where students can share heir assignments and submit them at the same time! All subitted assignments can be marked else it gets pending status. A student can see all their submitted assignments and other details. Their is chat post feature where students can discuss matters with others.
+- **Description**: An Online-based student group study platform. Where students can share their assignments and submit them at the same time! All submitted assignments can be marked else it gets pending status. A student can see all their submitted assignments and other details. There is a chat post feature where students can discuss matters with others.
 
 - **Technologies used** : <br>
-    **Front end** : Reactjs , tailwind , DaisyUi, AOS animation <br>
+    **Front end**: Reactjs, tailwind, DaisyUi, AOS animation <br>
     **Backend** : Node, Express<br>
     **Database** : MongoDB<br>
     **Authentication** : Firebase<br>
@@ -65,7 +65,7 @@
 
 <h4 align="left">🏎 Wheels World </h4>
 
-- **Description** : A Car Dealership website where people can buy cars. Just like an ecommerce site choose from brands , add to cart , go to cart then checkout with your price. There is a dark theme available for this website and its totally mobile friendly  
+- **Description**: A Car Dealership website where people can buy cars. Just like an ecommerce site choose from brands, add to cart, go to cart then checkout with your price. There is a dark theme available for this website and it is totally mobile-friendly  
 
 - **Technologies used** : <br>
     **Front end** : Reactjs , tailwind , DaisyUi, AOS <br>
