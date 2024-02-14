@@ -50,7 +50,7 @@
     **Database** : MongoDB<br>
     **Authentication** : Firebase<br>
 
-[Front End Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-Client) | [Backend Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-server) | [Live Demo](https://abuild-homesabd.web.app/)
+[Front End Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-Client) | [Backend Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-server) | [Live Demo](https://abuild-homes-estate-abd.netlify.app/)
 <h4 align="left">📝 ColabTask </h4>
 
 - **Description**: An Online-based student group study platform. Where students can share their assignments and submit them at the same time! All submitted assignments can be marked else it gets pending status. A student can see all their submitted assignments and other details. There is a chat post feature where students can discuss matters with others.
