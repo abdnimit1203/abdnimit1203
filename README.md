@@ -71,7 +71,7 @@
     **Database** : MongoDB<br>
     **Authentication** : Firebase<br>
 
-[Front End Repo](https://github.com/abdnimit1203/Online-group-study) | [Backend Repo](https://github.com/abdnimit1203/Online-group-study-server-) | [Live Demo](https://online-group-study-fdf3b.web.app/)
+[Front End Repo](https://github.com/abdnimit1203/Online-group-study) | [Backend Repo](https://github.com/abdnimit1203/Online-group-study-server-) | [Live Demo](https://colab-tasks-fe.netlify.app/)
 
 <h4 align="left">🏎 Wheels World </h4>
 
