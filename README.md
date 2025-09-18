@@ -10,7 +10,7 @@
 <h2 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
  <h3 align="center">I'm Abdullah Ibne Ali , AKA abd_nimit</h3>
 
-<p align="center">A passionate Web Developer(MERN) from Bangladesh. For the last 6 months, I have been learning JavaScript, Reactjs, and Node.js  to make user-friendly & appealing websites. I use Tailwind as a CSS framework and jsx for react component building.<br><br> As a developer from MERN stack I have a decent knowledge of building a backend server. I use Node, Express, and MongoDB to manage database at the backend.<br><br> Drop me a Figma or any UI i am confident that I will make it alive!✌🏻</p>
+<p align="center">A passionate Web Developer(MERN) from Bangladesh. , I have been learning JavaScript, Reactjs, NextJs and Node.js  to make user-friendly & appealing websites. I use Tailwind as a CSS framework and jsx for react component building.<br><br> As a developer from MERN stack I have a decent knowledge of building a backend server. I use Node, Express, and MongoDB to manage database at the backend.<br><br> Drop me a Figma or any UI i am confident that I will make it alive!✌🏻</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah1203&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah1203" /> </p>
 
