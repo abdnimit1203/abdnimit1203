@@ -10,11 +10,13 @@
 <h2 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
  <h3 align="center">I'm Abdullah Ibne Ali , AKA abd_nimit</h3>
 
-<p align="center">A passionate Web Developer(MERN) from Bangladesh. , I have been learning JavaScript, Reactjs, NextJs and Node.js  to make user-friendly & appealing websites. I use Tailwind as a CSS framework and jsx for react component building.<br><br> As a developer from MERN stack I have a decent knowledge of building a backend server. I use Node, Express, and MongoDB to manage database at the backend.<br><br> Drop me a Figma or any UI i am confident that I will make it alive!✌🏻</p>
-
+<p align="center">A passionate Web Developer(MERN) from Bangladesh. I have been learning JavaScript, ReactJS, NextJS, and Node.js  to make user-friendly & appealing websites. I use Tailwind as a CSS framework and jsx for React component building.<br><br> As a developer from the MERN stack, I have a decent knowledge of building a backend server. I use Node, Express, and MongoDB to manage database at the backend.<br><br> Drop me a Figma or any UI, I am confident that I will make it alive!✌🏻</p>
+<p align="center">
+🚀 Currently building and growing the <b>Developer Community at Brihot</b>, organizing online hackathons, community events, and builder-focused initiatives for aspiring developers and creators.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah1203&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah1203" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Development**
+- 🔭 I'm currently working on **MERN Stack Development & Developer Community Building**
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -47,11 +49,11 @@
 <h3 align="left">My Latest projects 💥</h3>
 <hr>
 
-*Login to the sites to see the features*
+*Log in to the sites to see the features*
 
 <h4 align="left">🏡 ABuild Homes Estate </h4>
 
-- **Description**: A real estate website where people can buy houses by offering prices. There are 3 roles for users which are managed by admins in the dashboard. There is a User, Agent, and Admin role for this website. Where the user adds the property to the wishlist and makes an offer from the user dashboard. Agent manages those offers and accepts the best one and other offers get rejected. Agent adds properties to be added to the user viewpoint and updates them. Admin manages the properties, total sales, and user roles.
+- **Description**: A real estate website where people can buy houses by offering prices. There are 3 user roles, which are managed by admins in the dashboard. There are User, Agent, and Admin roles for this website. Where the user adds the property to the wishlist and makes an offer from the user dashboard. The agent manages those offers and accepts the best one, and the other offers get rejected. Agent adds properties to the user viewpoint and updates them. Admin manages the properties, total sales, and user roles.
 *Stripe payment is a system test version applied for transactions*
 
 - **Technologies used** : <br>
@@ -66,7 +68,7 @@
 - **Description**: An Online-based student group study platform. Where students can share their assignments and submit them at the same time! All submitted assignments can be marked else it gets pending status. A student can see all their submitted assignments and other details. There is a chat post feature where students can discuss matters with others.
 
 - **Technologies used** : <br>
-    **Front end**: Reactjs, tailwind, DaisyUi, AOS animation <br>
+    **Front end**: ReactJS, Tailwind, DaisyUi, AOS animation <br>
     **Backend** : Node, Express<br>
     **Database** : MongoDB<br>
     **Authentication** : Firebase<br>
@@ -75,7 +77,7 @@
 
 <h4 align="left">🏎 Wheels World </h4>
 
-- **Description**: A Car Dealership website where people can buy cars. Just like an ecommerce site choose from brands, add to cart, go to cart then checkout with your price. There is a dark theme available for this website and it is totally mobile-friendly  
+- **Description**: A Car Dealership website where people can buy cars. Just like an e-commerce site, choose from brands, add to cart, go to cart, then checkout with your price. There is a dark theme available for this website, and it is totally mobile-friendly  
 
 - **Technologies used** : <br>
     **Front end** : Reactjs , tailwind , DaisyUi, AOS <br>
