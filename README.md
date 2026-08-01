@@ -1,5 +1,4 @@
-[website]: https://Abdullah1203.github.io/web-portfolio
-[twitter]: https://twitter.com/abd_nimit
+[website]: https://abdullah-portfolio-frontend.netlify.app
 [youtube]: https://bit.ly/33ZXxA8
 [instagram]: https://www.instagram.com/abd_nimit
 [linkedin]: https://www.linkedin.com/in/abdullah-ibne-ali
@@ -18,9 +17,11 @@
 
 - 🔭 I'm currently working on **MERN Stack Development & Developer Community Building**
 
-- 🌱 I’m currently learning **Next.js**
+- 💻 I'm currently building with **Next.js & TypeScript**
 
-- 👯 I’m looking to collaborate on **Front end Projects**
+- 🤖 I'm exploring **AI-agentic development tools like Google Antigravity**
+
+- 👯 I'm looking to collaborate on **Front end Projects**
 
 - ⚡ Fun fact **I love Travelling, Photography, and Gaming Online.**
 
@@ -28,7 +29,13 @@
 
 <br />
 
-[<p align="center">[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://linkedin.com/in/abdullah-ibne-ali)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/abd.nimit)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">](https://twitter.com/abd_nimit_)</p>]
+<p align="center">
+<a href="https://linkedin.com/in/abdullah-ibne-ali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/abd.nimit" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.instagram.com/abd_nimit" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://bit.ly/33ZXxA8" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://abdullah-portfolio-frontend.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 <br />
 
@@ -42,14 +49,54 @@
 </p>
 
 <h3 align="left">Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a><img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p align="left"><b>Frontend</b></p>
+<p align="left">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="filter: invert(0.5)"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+</p>
+
+<p align="left"><b>Backend & Database</b></p>
+<p align="left">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="filter: invert(0.5)"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+</p>
+
+<p align="left"><b>Tools</b></p>
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="filter: invert(0.5)"/> </a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40" style="filter: invert(0.5)"/> </a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
+</p>
 <br>
-<br> 
+<br>
 
 <h3 align="left">My Latest projects 💥</h3>
 <hr>
 
 *Log in to the sites to see the features*
+
+<h4 align="left">🔒 CipherVault </h4>
+
+- **Description**: A zero-knowledge password vault. Every credential is encrypted client-side with AES-256-GCM before it ever leaves the browser — the backend only ever stores ciphertext and has no way to decrypt it. The encryption key is derived locally from a Master Password via Argon2id, so the password itself is never transmitted or stored. Users can sign in with Email or 1-click Google auth, organize saved credentials into Personal, Family, Friend, and Other categories, and reveal a password only after re-verifying identity (auto-hides again after 15 seconds). Ships as a mobile-first installable PWA.
+
+- **Technologies used** : <br>
+    **Front end** : Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4, Framer Motion <br>
+    **Backend** : Node, Express<br>
+    **Database** : MongoDB<br>
+    **Authentication** : Firebase Admin SDK + JWT sessions<br>
+    **Cryptography** : Web Crypto API, Argon2id<br>
+
+[Front End Repo](https://github.com/abdnimit1203/CipherVault-FE) | [Backend Repo](https://github.com/abdnimit1203/CipherVault-BE) | [Live Demo](https://abd-ciphervault.netlify.app)
 
 <h4 align="left">🏡 ABuild Homes Estate </h4>
 
@@ -75,44 +122,11 @@
 
 [Front End Repo](https://github.com/abdnimit1203/Online-group-study) | [Backend Repo](https://github.com/abdnimit1203/Online-group-study-server-) | [Live Demo](https://colab-tasks-fe.netlify.app/)
 
-<h4 align="left">🏎 Wheels World </h4>
-
-- **Description**: A Car Dealership website where people can buy cars. Just like an e-commerce site, choose from brands, add to cart, go to cart, then checkout with your price. There is a dark theme available for this website, and it is totally mobile-friendly  
-
-- **Technologies used** : <br>
-    **Front end** : Reactjs , tailwind , DaisyUi, AOS <br>
-    **Backend** : Node, Express<br>
-    **Database** : MongoDB<br>
-    **Authentication** : Firebase<br>
-
-[Front End Repo](https://github.com/abdnimit1203/Wheels-World) | [Backend Repo](https://github.com/abdnimit1203/Wheels-World-Server) | [Live Demo](https://brand-shop-automotive-b8a10.web.app/)
-
-
-
-
- 
-
-
 <br>
-<be> 
 
+<h2 align="center">More Github Stats 📈</h2>
 
-<h2 align="center">More Github Stats 📈 </h2>
-
-
- ![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=abdnimit1203&show_icons=true&theme=tokyonight)  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abdnimit1203&show_icons=true&locale=en&layout=compact&theme=tokyonight) 
-
-
-                                                                                     
-  
-
-
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdnimit1203&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abdullah1203" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdnimit1203&show_icons=true&locale=en" alt="abdullah1203" /></p>
-
- -->
-
-
+<p align="center">
+<img width="400" alt="Abdullah's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=abdnimit1203&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="400" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=abdnimit1203&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
