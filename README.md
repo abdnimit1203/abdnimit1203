@@ -3,7 +3,8 @@
 [instagram]: https://www.instagram.com/abd_nimit
 [linkedin]: https://www.linkedin.com/in/abdullah-ibne-ali
 
-![cover](https://github.com/user-attachments/assets/327adf02-a6ef-4d89-bed2-3a52c07adcfd)
+<!-- ![cover](https://github.com/user-attachments/assets/327adf02-a6ef-4d89-bed2-3a52c07adcfd) --> 
+![cover](https://github.com/user-attachments/assets/ea9d5688-e4da-4b1d-bcee-a369aa19aa86)
 
 
 <h2 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
