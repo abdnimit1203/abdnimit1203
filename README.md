@@ -111,17 +111,20 @@
     **Authentication** : Firebase<br>
 
 [Front End Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-Client) | [Backend Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-server) | [Live Demo](https://abuild-homes-estate-abd.netlify.app/)
-<h4 align="left">📝 ColabTask </h4>
 
-- **Description**: An Online-based student group study platform. Where students can share their assignments and submit them at the same time! All submitted assignments can be marked else it gets pending status. A student can see all their submitted assignments and other details. There is a chat post feature where students can discuss matters with others.
 
+<h4 align="left">🩺 MedicoDocs </h4>
+
+- **Description**: A mobile-first personal & family medical document vault powered by Gemini AI. Users can digitize paper prescriptions and diagnostic lab reports via instant image uploads. Powered by Gemini 3.6 Flash with strict structured JSON schemas, the platform automatically extracts doctor details, clinical notes, lab test parameters with abnormal flags, and a fully editable `medicines[]` regimen (dosage, frequency, duration). Features a "review-before-save" safety guarantee, one-click medicine lookup via Medex, and a grounded bilingual AI Medical Assistant (English/Bangla) that answers queries strictly using the patient's own stored records without hallucinating.
+  
 - **Technologies used** : <br>
-    **Front end**: ReactJS, Tailwind, DaisyUi, AOS animation <br>
-    **Backend** : Node, Express<br>
-    **Database** : MongoDB<br>
-    **Authentication** : Firebase<br>
-
-[Front End Repo](https://github.com/abdnimit1203/Online-group-study) | [Backend Repo](https://github.com/abdnimit1203/Online-group-study-server-) | [Live Demo](https://colab-tasks-fe.netlify.app/)
+    **Front end** : Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS, Framer Motion, Lucide Icons <br>
+    **Backend** : Node.js, Express.js, TypeScript <br>
+    **Database** : MongoDB, Mongoose <br>
+    **Authentication** : Firebase Auth & Firebase Admin SDK (JWT verification) <br>
+    **AI & Cloud Services** : Google Gen AI SDK (Gemini 3.6 Flash), ImageKit CDN <br>
+    
+[Front End Repo](https://github.com/abdnimit1203/MedicoDocs-FE) | [Backend Repo](https://github.com/abdnimit1203/MedicoDocs-BE) | [Live Demo](https://medicodocs-ab.vercel.app)
 
 <br>
 
