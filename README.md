@@ -101,15 +101,14 @@
 
 <h4 align="left">🏡 ABuild Homes Estate </h4>
 
-- **Description**: A real estate website where people can buy houses by offering prices. There are 3 user roles, which are managed by admins in the dashboard. There are User, Agent, and Admin roles for this website. Where the user adds the property to the wishlist and makes an offer from the user dashboard. The agent manages those offers and accepts the best one, and the other offers get rejected. Agent adds properties to the user viewpoint and updates them. Admin manages the properties, total sales, and user roles.
-*Stripe payment is a system test version applied for transactions*
+- **Description**: A full-stack, enterprise-grade real estate marketplace featuring a multi-tier Role-Based Access Control (RBAC) architecture for Buyers, Agents, and Admins. Buyers can explore verified properties with multi-criteria filtering, wishlist listings, submit competitive price offers, and complete secure card transactions via Stripe upon offer acceptance. Agents manage property portfolios, review competing buyer bids, and accept winning offers (with automated rejection of rival bids). Admins oversee global platform operations via an analytics dashboard, verifying property submissions, managing user roles, and tracking aggregate sales volume. Designed with a mobile-first responsive glassmorphic UI.
 
 - **Technologies used** : <br>
-    **Front end** : Reactjs , tailwind , DaisyUi, Framer <br>
-    **Backend** : Node, Express<br>
-    **Database** : MongoDB<br>
-    **Authentication** : Firebase<br>
-
+    **Front end** : Next.js 14 (App Router), React 18, TypeScript, Tailwind CSS, DaisyUI, Framer Motion, TanStack Query (React Query v5), Lucide Icons <br>
+    **Backend** : Node.js, Express.js <br>
+    **Database** : MongoDB, Mongoose <br>
+    **Authentication & Payments** : Firebase Auth & Admin SDK, JWT session verification, Stripe API <br>
+    
 [Front End Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-Client) | [Backend Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-server) | [Live Demo](https://abuild-homes-estate-abd.netlify.app/)
 
 
