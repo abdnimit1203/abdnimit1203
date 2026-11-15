@@ -1,46 +1,29 @@
-[website]: https://abdullah-portfolio-frontend.netlify.app
-[youtube]: https://bit.ly/33ZXxA8
-[instagram]: https://www.instagram.com/abd_nimit
+[website]: https://abdullah-ibne-ali.vercel.app
 [linkedin]: https://www.linkedin.com/in/abdullah-ibne-ali
 
-<!-- ![cover](https://github.com/user-attachments/assets/327adf02-a6ef-4d89-bed2-3a52c07adcfd) --> 
 ![cover](https://github.com/user-attachments/assets/ea9d5688-e4da-4b1d-bcee-a369aa19aa86)
 
-
 <h2 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
- <h3 align="center">I'm Abdullah Ibne Ali , AKA abd_nimit</h3>
+<h3 align="center">I'm Abdullah Ibne Ali, AKA abd_nimit</h3>
+<p align="center"><b>Full-Stack & AI-Assisted Web Developer</b> · Next.js · Node.js · MongoDB</p>
 
-<p align="center">A passionate Web Developer(MERN) from Bangladesh. I have been learning JavaScript, ReactJS, NextJS, and Node.js  to make user-friendly & appealing websites. I use Tailwind as a CSS framework and jsx for React component building.<br><br> As a developer from the MERN stack, I have a decent knowledge of building a backend server. I use Node, Express, and MongoDB to manage database at the backend.<br><br> Drop me a Figma or any UI, I am confident that I will make it alive!✌🏻</p>
+<p align="center">I build fast websites and web apps that bring in customers: online stores, booking sites, dashboards and AI-powered tools. Developer by skill, marketer by practice: I know what makes a visitor book, buy or reply.</p>
+
 <p align="center">
-🚀 Currently building and growing the <b>Developer Community at Brihot</b>, organizing online hackathons, community events, and builder-focused initiatives for aspiring developers and creators.
+💼 <b>Full-Stack Developer & Business Development</b> at <a href="https://classytic.com">Classytic</a> · 🧑‍💻 Freelancing worldwide · 📍 Gazipur, Bangladesh
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah1203&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah1203" /> </p>
-
-- 🔭 I'm currently working on **MERN Stack Development & Developer Community Building**
-
-- 💻 I'm currently building with **Next.js & TypeScript**
-
-- 🤖 I'm exploring **AI-agentic development tools like Google Antigravity**
-
-- 👯 I'm looking to collaborate on **Front end Projects**
-
-- ⚡ Fun fact **I love Travelling, Photography, and Gaming Online.**
-
-## :mailbox: Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-
-<br />
 
 <p align="center">
  <a href="https://abdullah-ibne-ali.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/abdullah-ibne-ali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/abd.nimit" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/abd_nimit" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://bit.ly/33ZXxA8" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+ <a href="https://wa.me/8801761609974" target="_blank"><img src="https://img.shields.io/badge/Start%20a%20project%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah1203&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-
+- 🛒 **What I build:** e-commerce stores, clinic & restaurant booking sites, admin dashboards, AI features (Gemini, local LLMs)
+- 🤖 **How I work:** AI-first. I use AI coding tools to move fast, and I review, test and own every line I ship
+- 🎓 **Certifications:** Complete Web Development (Programming Hero, Dec 2023) · Black Belt Award (Programming Hero) · AI Skills Training, Batch 2 (Dept. of Youth Development, Govt. of Bangladesh, in progress)
+- ⚡ **Fun fact:** I love travelling, photography and online gaming
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -81,49 +64,19 @@
 <br>
 <br>
 
-<h3 align="left">My Latest projects 💥</h3>
+<h3 align="left">Featured projects 💥</h3>
 <hr>
 
-*Log in to the sites to see the features*
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| 🛒 **Aabriha Mart** | Full online store with admin dashboard, Stripe + bKash/Nagad checkout, sales analytics | Next.js 16, TypeScript, Express, MongoDB, Firebase | [Live](https://aabrihamart.vercel.app) · [Code](https://github.com/abdnimit1203/Aabriha-Mart-FE) |
+| 🦷 **Dental Clinic Portal** | Clinic website with patient booking, real-time serial numbers, multi-chamber admin, Google Sheets sync | Next.js, TypeScript | [Live](https://dental-clinic-landing-eta.vercel.app) · [Code](https://github.com/abdnimit1203/Dental-Clinic-Landing) |
+| 🍽️ **Bangla Cafe and Bar** *(client project)* | Restaurant ordering and table reservation storefront | Next.js 16, TypeScript, Brihot Commerce | [Live](https://bangla-cafe-and-bar.vercel.app) · [Code](https://github.com/abdnimit1203/Bangla-Cafe-Bar) |
+| 🔒 **CipherVault** | Zero-knowledge password vault: AES-256-GCM in the browser, Argon2id keys, installable PWA | Next.js 16, Express, MongoDB | [Live](https://abd-ciphervault.netlify.app) · [Code](https://github.com/abdnimit1203/CipherVault-FE) |
+| 🩺 **MedicoDocs** | Family medical records vault: Gemini reads prescriptions, AI assistant answers in English & Bangla | Next.js, Express, MongoDB, Gemini | [Live](https://medicodocs-ab.vercel.app) · [Code](https://github.com/abdnimit1203/MedicoDocs-FE) |
+| 🤖 **Bongo JARVIS** | Private desktop AI assistant that runs fully offline, with Bangla voice | Python, Ollama, faster-whisper | [Code](https://github.com/abdnimit1203/Bongo-JARVIS) |
 
-<h4 align="left">🔒 CipherVault </h4>
-
-- **Description**: A zero-knowledge password vault. Every credential is encrypted client-side with AES-256-GCM before it ever leaves the browser — the backend only ever stores ciphertext and has no way to decrypt it. The encryption key is derived locally from a Master Password via Argon2id, so the password itself is never transmitted or stored. Users can sign in with Email or 1-click Google auth, organize saved credentials into Personal, Family, Friend, and Other categories, and reveal a password only after re-verifying identity (auto-hides again after 15 seconds). Ships as a mobile-first installable PWA.
-
-- **Technologies used** : <br>
-    **Front end** : Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4, Framer Motion <br>
-    **Backend** : Node, Express<br>
-    **Database** : MongoDB<br>
-    **Authentication** : Firebase Admin SDK + JWT sessions<br>
-    **Cryptography** : Web Crypto API, Argon2id<br>
-
-[Front End Repo](https://github.com/abdnimit1203/CipherVault-FE) | [Backend Repo](https://github.com/abdnimit1203/CipherVault-BE) | [Live Demo](https://abd-ciphervault.netlify.app)
-
-<h4 align="left">🏡 ABuild Homes Estate </h4>
-
-- **Description**: A full-stack, enterprise-grade real estate marketplace featuring a multi-tier Role-Based Access Control (RBAC) architecture for Buyers, Agents, and Admins. Buyers can explore verified properties with multi-criteria filtering, wishlist listings, submit competitive price offers, and complete secure card transactions via Stripe upon offer acceptance. Agents manage property portfolios, review competing buyer bids, and accept winning offers (with automated rejection of rival bids). Admins oversee global platform operations via an analytics dashboard, verifying property submissions, managing user roles, and tracking aggregate sales volume. Designed with a mobile-first responsive glassmorphic UI.
-
-- **Technologies used** : <br>
-    **Front end** : Next.js 14 (App Router), React 18, TypeScript, Tailwind CSS, DaisyUI, Framer Motion, TanStack Query (React Query v5), Lucide Icons <br>
-    **Backend** : Node.js, Express.js <br>
-    **Database** : MongoDB, Mongoose <br>
-    **Authentication & Payments** : Firebase Auth & Admin SDK, JWT session verification, Stripe API <br>
-    
-[Front End Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-Client) | [Backend Repo](https://github.com/abdnimit1203/Abuild-Homes-Estate-server) | [Live Demo](https://abuild-homes-estate-abd.netlify.app/)
-
-
-<h4 align="left">🩺 MedicoDocs </h4>
-
-- **Description**: A mobile-first personal & family medical document vault powered by Gemini AI. Users can digitize paper prescriptions and diagnostic lab reports via instant image uploads. Powered by Gemini 3.6 Flash with strict structured JSON schemas, the platform automatically extracts doctor details, clinical notes, lab test parameters with abnormal flags, and a fully editable `medicines[]` regimen (dosage, frequency, duration). Features a "review-before-save" safety guarantee, one-click medicine lookup via Medex, and a grounded bilingual AI Medical Assistant (English/Bangla) that answers queries strictly using the patient's own stored records without hallucinating.
-  
-- **Technologies used** : <br>
-    **Front end** : Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS, Framer Motion, Lucide Icons <br>
-    **Backend** : Node.js, Express.js, TypeScript <br>
-    **Database** : MongoDB, Mongoose <br>
-    **Authentication** : Firebase Auth & Firebase Admin SDK (JWT verification) <br>
-    **AI & Cloud Services** : Google Gen AI SDK (Gemini 3.6 Flash), ImageKit CDN <br>
-    
-[Front End Repo](https://github.com/abdnimit1203/MedicoDocs-FE) | [Backend Repo](https://github.com/abdnimit1203/MedicoDocs-BE) | [Live Demo](https://medicodocs-ab.vercel.app)
+More (Jatriq travel site, BariVara rental manager, ABuild real estate) on my **[portfolio](https://abdullah-ibne-ali.vercel.app)**.
 
 <br>
 
